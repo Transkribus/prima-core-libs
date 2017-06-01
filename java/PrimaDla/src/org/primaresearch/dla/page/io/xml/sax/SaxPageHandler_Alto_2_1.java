@@ -773,7 +773,7 @@ public class SaxPageHandler_Alto_2_1 extends SaxPageHandler {
 		if ("ml".equals(altoLanguageValue)) return "Malayalam";
 		if ("mt".equals(altoLanguageValue)) return "Maltese";
 		if ("gv".equals(altoLanguageValue)) return "Manx";
-		if ("mi".equals(altoLanguageValue)) return "MÄ?ori";
+		if ("mi".equals(altoLanguageValue)) return "Maori";
 		if ("mr".equals(altoLanguageValue)) return "Marathi";
 		if ("mh".equals(altoLanguageValue)) return "Marshallese";
 		if ("mn".equals(altoLanguageValue)) return "Mongolian";
@@ -793,7 +793,7 @@ public class SaxPageHandler_Alto_2_1 extends SaxPageHandler {
 		if ("or".equals(altoLanguageValue)) return "Oriya";
 		if ("om".equals(altoLanguageValue)) return "Oromo";
 		if ("os".equals(altoLanguageValue)) return "Ossetian";
-		if ("pi".equals(altoLanguageValue)) return "PÄ?li";
+		if ("pi".equals(altoLanguageValue)) return "Puili";
 		if ("pa".equals(altoLanguageValue)) return "Panjabi";
 		if ("ps".equals(altoLanguageValue)) return "Pashto";
 		if ("fa".equals(altoLanguageValue)) return "Persian";

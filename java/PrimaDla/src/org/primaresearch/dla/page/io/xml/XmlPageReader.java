@@ -148,7 +148,7 @@ public class XmlPageReader implements PageReader {
 		
 		Page page = null;
 		
-		if (!lastErrors.hasErrors())
+//		if (!lastErrors.hasErrors())
 			page = pageHandler.getPageObject();
 		
 		//if (!MeasurementUnit.PIXEL.equals(pageHandler.getMeasurementUnit()))
